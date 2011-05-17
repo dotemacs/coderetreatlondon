@@ -19,12 +19,24 @@ __END__
 
 <body>
   <pre>
+    <div class="header">
              ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
             ||C |||o |||d |||e |||R |||e |||t |||r |||e |||a |||t ||
             ||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__||
             |/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|
 
-                                  London 
+                                   - London -
+    </div>
+    <div class="content">
+                                   SPONSORS
+
+
+     o Avdi Grimm (<a href="http://twitter/avdi">@avdi</a>) with his <a href="http://exceptionalruby.com/">Exceptional Ruby</a>
+     o Prag Prog 
+     o NoStarch Press
+     o Peepcode
+     
+    </div>
   </pre>
 </body>
 </html>
