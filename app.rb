@@ -18,32 +18,38 @@ __END__
 </head>
 
 <body>
-  <pre>
-    <div class="header">
-             ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
-            ||C |||o |||d |||e |||R |||e |||t |||r |||e |||a |||t ||
-            ||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__||
-            |/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|
+<pre>
+<div class="header">
+ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ 
+||C |||o |||d |||e |||R |||e |||t |||r |||e |||a |||t ||
+||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__||
+|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|
 
-                                   - London -
-    </div>
-    <div class="content">
+                     - London -
+</div>
+<div class="content">
 
-                                 WHEN AND WHERE
+WHEN AND WHERE
 
-                              Venue - TBC, London
+  Date & time:
+    One Saturday in June
+
+  Venue:
+    Unboxed Consulting
+    17 Blossom Street
+    London
+    E1 6PL
+    United Kingdom
 
 
 
-                                   SPONSORS
+SPONSORS
 
-
-     * Avdi Grimm (<a href="http://twitter/avdi">@avdi</a>) with his <a href="http://exceptionalruby.com/">Exceptional Ruby</a>
-     * Prag Prog 
-     * NoStarch Press
-     * Peepcode
-     
-    </div>
-  </pre>
+  * Avdi Grimm (<a href="http://twitter/avdi">@avdi</a>) with his <a href="http://exceptionalruby.com/">Exceptional Ruby</a>
+  * <a href="http://pragprog.com/">Prag Prog</a>
+  * <a href="http://nostarch.com/">NoStarch Press</a>
+  * <a href="http://peepcode.com/">Peepcode</a>
+</div>
+</pre>
 </body>
 </html>
