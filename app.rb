@@ -28,9 +28,11 @@ __END__
                                    - London -
     </div>
     <div class="content">
-                                   WHEN AND WHERE
 
-     Venue - TBC, London
+                                 WHEN AND WHERE
+
+                              Venue - TBC, London
+
 
 
                                    SPONSORS
