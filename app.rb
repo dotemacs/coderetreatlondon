@@ -28,13 +28,18 @@ __END__
                                    - London -
     </div>
     <div class="content">
+                                   WHEN AND WHERE
+
+     Venue - TBC, London
+
+
                                    SPONSORS
 
 
-     o Avdi Grimm (<a href="http://twitter/avdi">@avdi</a>) with his <a href="http://exceptionalruby.com/">Exceptional Ruby</a>
-     o Prag Prog 
-     o NoStarch Press
-     o Peepcode
+     * Avdi Grimm (<a href="http://twitter/avdi">@avdi</a>) with his <a href="http://exceptionalruby.com/">Exceptional Ruby</a>
+     * Prag Prog 
+     * NoStarch Press
+     * Peepcode
      
     </div>
   </pre>
