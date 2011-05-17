@@ -25,30 +25,30 @@ __END__
 ||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__||
 |/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|
 
-                     - London -
+                       London 
 </div>
 <div class="content">
 
 WHEN AND WHERE
 
-  Date & time:
-    One Saturday in June
+  Date & time: One Saturday in June, TBC
 
   Venue:
-    Unboxed Consulting
-    17 Blossom Street
-    London
-    E1 6PL
-    United Kingdom
+  Unboxed Consulting
+  17 Blossom Street
+  London
+  E1 6PL
+  United Kingdom
 
 
 
 SPONSORS
 
-  * Avdi Grimm (<a href="http://twitter/avdi">@avdi</a>) with his <a href="http://exceptionalruby.com/">Exceptional Ruby</a>
-  * <a href="http://pragprog.com/">Prag Prog</a>
-  * <a href="http://nostarch.com/">NoStarch Press</a>
-  * <a href="http://peepcode.com/">Peepcode</a>
+  o <a href="http://www.unboxedconsulting.com/">Unboxed</a> - venue sponsor
+  o Avdi Grimm (<a href="http://twitter/avdi">@avdi</a>) with his <a href="http://exceptionalruby.com/">Exceptional Ruby</a>
+  o <a href="http://pragprog.com/">Prag Prog</a>
+  o <a href="http://nostarch.com/">NoStarch Press</a>
+  o <a href="http://peepcode.com/">Peepcode</a>
 </div>
 </pre>
 </body>
