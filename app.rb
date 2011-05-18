@@ -31,7 +31,9 @@ __END__
 
 WHAT IS IT?
 
-  "Repeatable, day-long event that focuses on practicing the fundamentals of software development." - see <a href="http://coderetreat.ning.com/profiles/blogs/how-a-coderetreat-works">this</a> for more details.
+  "Repeatable, day-long event that focuses on practicing 
+  the fundamentals of software development." - see <a href="http://coderetreat.ning.com/profiles/blogs/how-a-coderetreat-works">this</a> 
+  for more details.
 
 WHEN AND WHERE
 
