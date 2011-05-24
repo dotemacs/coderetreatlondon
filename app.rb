@@ -29,15 +29,15 @@ __END__
 </div>
 <div class="content">
 
-WHAT IS IT?
+  WHAT IS IT?
 
   "Repeatable, day-long event that focuses on practicing 
   the fundamentals of software development." - see <a href="http://coderetreat.ning.com/profiles/blogs/how-a-coderetreat-works">this</a> 
   for more details.
 
-WHEN AND WHERE
+  WHEN AND WHERE
 
-  Date & time: One Saturday in June, TBC
+  Date & time: Saturday 25th June, 2011 from 8:30 to 17:30
 
   Venue:
   Unboxed Consulting
@@ -46,9 +46,11 @@ WHEN AND WHERE
   E1 6PL
   United Kingdom
 
+  See <a href="http://maps.google.co.uk/maps?f=q&source=s_q&hl=en&geocode=&q=Unboxed+Consulting+17+Blossom+Street+London+E1+6PL+United+Kingdom&aq=&sll=53.800651,-4.064941&sspn=19.280722,57.084961&ie=UTF8&hq=Unboxed+Consulting+17+Blossom+Street&hnear=London+E1+6PL,+United+Kingdom&z=16">the map</a>
 
+  Book your <a href="http://coderetreat.ning.com/events/coderetreat-london">place</a>
 
-SPONSORS
+  SPONSORS
 
   o <a href="http://www.unboxedconsulting.com/">Unboxed</a> - venue sponsor
   o Avdi Grimm (<a href="http://twitter/avdi">@avdi</a>) with his <a href="http://exceptionalruby.com/">Exceptional Ruby</a>
