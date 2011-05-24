@@ -11,23 +11,25 @@ end
 __END__
 
 @@ index
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <title>CodeRetreat London</title>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </head>
 
 <body>
 <pre>
-<div class="header">
+
  ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____
 ||C |||O |||D |||E |||R |||E |||T |||R |||E |||A |||T ||
 ||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__||
 |/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|
 
                        London
-</div>
-<div class="content">
+
+
 
   WHAT IS IT?
 
@@ -59,7 +61,7 @@ __END__
   o <a href="http://pragprog.com/">Prag Prog</a>
   o <a href="http://nostarch.com/">NoStarch Press</a>
   o <a href="http://peepcode.com/">Peepcode</a>
-</div>
+
 </pre>
 <script type="text/javascript">
 
