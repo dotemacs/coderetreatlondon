@@ -37,7 +37,9 @@ __END__
 
   WHEN AND WHERE
 
-  Date & time: Saturday 25th June, 2011 from 8:30 to 17:30
+  Date & time: 
+  Saturday 25th June, 2011 
+  from 8:30 to 17:30
 
   Venue:
   Unboxed Consulting
