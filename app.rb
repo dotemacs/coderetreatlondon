@@ -61,6 +61,7 @@ __END__
   o <a href="http://pragprog.com/">Prag Prog</a>
   o <a href="http://nostarch.com/">NoStarch Press</a>
   o <a href="http://peepcode.com/">Peepcode</a>
+  o <a href="http://github.com/">GitHub</a>
 
 </pre>
 <script type="text/javascript">
