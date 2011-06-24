@@ -62,6 +62,7 @@ __END__
   o <a href="http://nostarch.com/">NoStarch Press</a>
   o <a href="http://peepcode.com/">Peepcode</a>
   o <a href="http://github.com/">GitHub</a>
+  o Gary Bernhardt (<a href="http://twitter.com/#!/garybernhardt">@garybernhardt</a>) with his <a href="https://www.destroyallsoftware.com/screencasts">Destroy All Software</a>
 
 </pre>
 <script type="text/javascript">
