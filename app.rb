@@ -33,50 +33,76 @@ __END__
 
   WHAT IS IT?
 
-  "Repeatable, day-long event that focuses on practicing 
-  the fundamentals of software development." - see <a href="http://coderetreat.ning.com/profiles/blogs/how-a-coderetreat-works">this</a> 
-  for more details.
+  Coderetreat is a day-long, intensive TDD, clean code, pairing
+  practice event, focusing on the fundamentals of software development
+  and design.
+
+  You pair up in your chosen language and spend the day doing a series
+  of kata around Conways Game of Life that will sharpen your skills
+  and get you writing code that smells oh so sweet.
+
 
   WHEN AND WHERE
 
-  Date & time: 
-  Saturday 25th June, 2011 
-  from 8:30 to 17:30
+  Date & time:
+  Saturday 29th September 2012
+  10:00 AM - 6:30 PM
+
+  The day will be hosted by Camelot in our Covent Garden office with
+  additional sponsorship from SkillsMatter.  We will break for lunch
+  around 1pm at award winning restaurant Canteen courtesy of Camelot.
 
   Venue:
-  Unboxed Consulting
-  17 Blossom Street
+  Camelot
+  5th Floor Brettenham House
+  Lancaster Place
   London
-  E1 6PL
-  United Kingdom
+  WC2E 7EN
 
-  See <a href="http://maps.google.co.uk/maps?f=q&source=s_q&hl=en&geocode=&q=Unboxed+Consulting+17+Blossom+Street+London+E1+6PL+United+Kingdom&aq=&sll=53.800651,-4.064941&sspn=19.280722,57.084961&ie=UTF8&hq=Unboxed+Consulting+17+Blossom+Street&hnear=London+E1+6PL,+United+Kingdom&z=16">the map</a>
+  See <a href="http://goo.gl/maps/mFlD4">the map</a>
 
-  Book your <a href="http://coderetreat.ning.com/events/coderetreat-london">place</a>
+
+  WHAT TO EXPECT?
+
+  An all-day long programming exercise, where you get the opportunity
+  to practice your programming and collaborating skills. By providing
+  developers the opportunity to take part in focused practice, away
+  from the pressures of 'getting things done', the Coderetreat format
+  has proven itself to be a highly effective means of skill
+  improvement. Practicing the basic principles of modular and
+  object-oriented design, developers can improve their ability to
+  write code that minimizes the cost of change over time. You can
+  attend as a pair or as an individual and pair up on the day.
+
+  WHAT TO BRING?
+
+  A laptop
+
+  WHAT PROGRAMMING LANGUAGE?
+
+  Anything you can find a pair for
+
+  WHAT ABOUT FOOD?
+
+  Camelot will take good care of us, providing refreshments and snacks
+  throughout the day, and sponsoring a great lunch at award winning
+  restaurant Canteen
+
+  HOW MUCH DOES IT COST?
+
+  Nothing, it’s a free day.
+
+  EVENT ORGANIZER AND REGISTRATION
+
+  Marton Meszaros (Software Engineer in Test at Camelot) Register via
+  the <a href="http://www.linkedin.com/osview/canvas?_ch_page_id=1&_ch_panel_id=1&_ch_app_id=2000&_applicationId=2000&_ownerId=0&appParams={%22event%22%3A%221088586%22%2C%22page%22%3A%22event%22}&trk=link-events-detail-detail">"Coderetreat London" linkedin group</a> or email <a href="mailto:meza@meza.hu">Marton</a>
 
   SPONSORS
 
-  o <a href="http://www.unboxedconsulting.com/">Unboxed</a> - venue sponsor
-  o Avdi Grimm (<a href="http://twitter/avdi">@avdi</a>) with his <a href="http://exceptionalruby.com/">Exceptional Ruby</a>
-  o <a href="http://pragprog.com/">Prag Prog</a>
-  o <a href="http://nostarch.com/">NoStarch Press</a>
-  o <a href="http://peepcode.com/">Peepcode</a>
-  o <a href="http://github.com/">GitHub</a>
-  o Gary Bernhardt (<a href="http://twitter.com/#!/garybernhardt">@garybernhardt</a>) with his <a href="https://www.destroyallsoftware.com/screencasts">Destroy All Software</a>
+  o Camelot
+  o Skills Matter
+  o Canteen
 
 </pre>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-2248984-5']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 </body>
 </html>
